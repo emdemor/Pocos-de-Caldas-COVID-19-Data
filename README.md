@@ -11,7 +11,9 @@ A repo for coronavirus related case count data from Poços de Caldas, MG, Brazil
 
 This repository download the data from the Health Department of Minas Gerais State and filter just the data from Poços de Caldas. Then, the code counts confirmed cases each day and exports them to the file PC-COVID19-Total-Confirmed-Cases.csv in the paste data. 
 
-![image](./data/graph_confirmed_cases.png)
+![image](./results/graph_confirmed_cases.png)
+![image](./results/covid_cases_area_plot.png)
+![image](./results/covid_cases_line_plot.png)
 
 ### 2. Dataset
 
